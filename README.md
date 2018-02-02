@@ -12,6 +12,7 @@ A list of awesome resources for (tech) event organisers to help grow and improve
 ## Platforms
 - [Meetup.com](//meetup.com) One of the most common events platforms today
 - [Sessionize.com](//sessionize.com) A platform for hosting call for speakers / call for papers 
+- [Joind.in](//joind.in) Call for papers and feedback platform
 
 ## Marketing
 - [20 Creative Event Promotion Ideas to Increase Attendance](//www.eventbrite.com/blog/creative-event-promotion-ideas-ds00/) Some useful tips for marketing your events
@@ -24,3 +25,5 @@ A list of awesome resources for (tech) event organisers to help grow and improve
 
 ## Ensuring safe and diverse events
 - [Awesome Diversity List](//github.com/folkswhocode/awesome-diversity) Extra resources around diversity at events but but also in tech
+- [Global Diversity CFP Day](//www.globaldiversitycfpday.com/) A global initiative to encourage new speakers by hosting workshops around the world
+- [AlterConf](//alterconf.com/) A high profile event focussed on improving represenation in the tech and gaming industries
