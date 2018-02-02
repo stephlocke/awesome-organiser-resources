@@ -13,6 +13,8 @@ A list of awesome resources for (tech) event organisers to help grow and improve
 - [Meetup.com](//meetup.com) One of the most common events platforms today
 - [Sessionize.com](//sessionize.com) A platform for hosting call for speakers / call for papers 
 - [Joind.in](//joind.in) Call for papers and feedback platform
+- [Papercall.io](//papercall.io) Call for papers platform
+- [Attenting.io](//attending.io/) A great event platform for free events
 
 ## Marketing
 - [20 Creative Event Promotion Ideas to Increase Attendance](//www.eventbrite.com/blog/creative-event-promotion-ideas-ds00/) Some useful tips for marketing your events
