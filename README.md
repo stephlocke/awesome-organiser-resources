@@ -10,7 +10,7 @@ A list of awesome resources for (tech) event organisers to help grow and improve
 - [Ensuring safe and diverse events](#ensuring-safe-and-diverse-events)
 
 ## Platforms
-- [Meetup.com](//meetup.com) One of the most common events platforms today
+- [Meetup.com](//meetup.com) One of the most common events platforms today. Meetup has an [API](https://www.meetup.com/meetup_api/) with various (community-contributed) [client libraries](https://github.com/meetup/api/blob/master/clients.md).
 - [Sessionize.com](//sessionize.com) A platform for hosting call for speakers / call for papers 
 - [Joind.in](//joind.in) Call for papers and feedback platform
 - [Papercall.io](//papercall.io) Call for papers platform
