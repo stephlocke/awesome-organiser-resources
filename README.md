@@ -22,8 +22,13 @@ A list of awesome resources for (tech) event organisers to help grow and improve
 ## Organising conferences
 - [Less obvious conference list](//github.com/mxsasha/lessobviouschecklist) A great checklist of things you should consider when running a conference
 
+## Guide to hosting a panel discussion
+- [Eduardo Ariño de la Rubia's Guide to Hosting a Panel](https://github.com/earino/hosting_a_panel) A great source of wisdom from Eduardo on how to host a panel discussion.
+
 ## Organising meetups
 - [RLadies Starter Kit](//github.com/rladies/starter-kit) A brilliant example of growing distributed groups under the same banner
+- [Meetup.com Organizer Guide](https://www.meetup.com/help/article/2914775/) Official Meetup.com Guide
+- [William Petz's Guide to a Successful Meetup Group & Meetup Events(pdf)](https://www.owasp.org/images/c/c8/Guide_to_a_Successful_Meetup.pdf) Great list of best practices as for organizing meetups.
 
 ## Ensuring safe and diverse events
 - [Awesome Diversity List](//github.com/folkswhocode/awesome-diversity) Extra resources around diversity at events but but also in tech
