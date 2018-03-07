@@ -21,6 +21,7 @@ A list of awesome resources for (tech) event organisers to help grow and improve
 
 ## Organising conferences
 - [Less obvious conference list](//github.com/mxsasha/lessobviouschecklist) A great checklist of things you should consider when running a conference
+- [How to tackle the childcare–conference conundrum](http://www.pnas.org/content/early/2018/03/01/1803153115)
 
 ## Organising meetups
 - [RLadies Starter Kit](//github.com/rladies/starter-kit) A brilliant example of growing distributed groups under the same banner
