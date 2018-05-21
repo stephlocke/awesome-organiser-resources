@@ -33,4 +33,3 @@ A list of awesome resources for (tech) event organisers to help grow and improve
 - [Ten Simple Rules to Achieve Conference Speaker Gender Balance](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003903)
 - [Ten tips for getting more women speakers](https://geekfeminism.org/2009/08/11/ten-tips-for-getting-more-women-speaker/)
 - [How I Got 50% Women Speakers at My Tech Conference](https://geekfeminism.org/2012/05/21/how-i-got-50-women-speakers-at-my-tech-conference/) Experience of encouraging submissions from women.
-- [AlterConf](//alterconf.com/) A high profile event focussed on improving represenation in the tech and gaming industries
