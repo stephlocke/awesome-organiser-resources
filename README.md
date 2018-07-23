@@ -11,17 +11,20 @@ A list of awesome resources for (tech) event organisers to help grow and improve
 
 ## Platforms
 - [Meetup.com](//meetup.com) One of the most common events platforms today. Meetup has an [API](https://www.meetup.com/meetup_api/) with various (community-contributed) [client libraries](https://github.com/meetup/api/blob/master/clients.md).
-- [Sessionize.com](//sessionize.com) A platform for hosting call for speakers / call for papers 
+- [Sessionize.com](//sessionize.com) A platform for hosting call for speakers / call for papers
 - [Joind.in](//joind.in) Call for papers and feedback platform
 - [Papercall.io](//papercall.io) Call for papers platform
 - [Attending.io](//attending.io/) A great event platform for free events
+- [Picatic](//picatic.com) An easy-to-use event registration platform for free and paid events with a strong API for developers
 
 ## Marketing
 - [20 Creative Event Promotion Ideas to Increase Attendance](//www.eventbrite.com/blog/creative-event-promotion-ideas-ds00/) Some useful tips for marketing your events
+- [15 Social Media Tactics To Increase Your Event Exposure](https://blog.picatic.com/15-social-media-tactics-increase-event-marketing-exposure/) How to use social media to gain more ticket sales
 
 ## Organising conferences
 - [Less obvious conference list](//github.com/mxsasha/lessobviouschecklist) A great checklist of things you should consider when running a conference
 - [How to tackle the childcare–conference conundrum](http://www.pnas.org/content/early/2018/03/01/1803153115)
+- [Ultimate Event Venue Checklist for Event Planners](https://blog.picatic.com/event-venue-checklist/) An excellent checklist for locking in the perfect venue for your conference
 
 ## Organising meetups
 - [RLadies Starter Kit](//github.com/rladies/starter-kit) A brilliant example of growing distributed groups under the same banner
