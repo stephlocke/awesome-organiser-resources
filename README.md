@@ -32,4 +32,7 @@ A list of awesome resources for (tech) event organisers to help grow and improve
 ## Ensuring safe and diverse events
 - [Awesome Diversity List](//github.com/folkswhocode/awesome-diversity) Extra resources around diversity at events but but also in tech
 - [Global Diversity CFP Day](//www.globaldiversitycfpday.com/) A global initiative to encourage new speakers by hosting workshops around the world
-- [AlterConf](//alterconf.com/) A high profile event focussed on improving represenation in the tech and gaming industries
+- [NumFOCUS DISCOVER Cookbook](https://github.com/numfocus/DISCOVER-Cookbook) A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Program.
+- [Ten Simple Rules to Achieve Conference Speaker Gender Balance](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003903)
+- [Ten tips for getting more women speakers](https://geekfeminism.org/2009/08/11/ten-tips-for-getting-more-women-speaker/)
+- [How I Got 50% Women Speakers at My Tech Conference](https://geekfeminism.org/2012/05/21/how-i-got-50-women-speakers-at-my-tech-conference/) Experience of encouraging submissions from women.
