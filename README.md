@@ -26,6 +26,7 @@ A list of awesome resources for (tech) event organisers to help grow and improve
 - [How to tackle the childcare–conference conundrum](http://www.pnas.org/content/early/2018/03/01/1803153115)
 - [How to make your conference perfect?](https://blog.softwaremill.com/how-to-make-your-conference-perfect-a4f0e7f441c5)
 - [Ultimate Event Venue Checklist for Event Planners](https://blog.picatic.com/event-venue-checklist/) An excellent checklist for locking in the perfect venue for your conference
+- [How to have great inclusive audio at your event](https://github.com/njt/event-audio)
 
 ## Organising meetups
 - [RLadies Starter Kit](//github.com/rladies/starter-kit) A brilliant example of growing distributed groups under the same banner
