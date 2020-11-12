@@ -16,6 +16,7 @@ A list of awesome resources for (tech) event organisers to help grow and improve
 - [Papercall.io](//papercall.io) Call for papers platform
 - [Attending.io](//attending.io/) A great event platform for free events
 - [Picatic](//picatic.com) An easy-to-use event registration platform for free and paid events with a strong API for developers
+- [Mobilizon](https://joinmobilizon.org/) A federated and self-hostable tool that helps you find, create and organise events
 
 ## Marketing
 - [20 Creative Event Promotion Ideas to Increase Attendance](//www.eventbrite.com/blog/creative-event-promotion-ideas-ds00/) Some useful tips for marketing your events
