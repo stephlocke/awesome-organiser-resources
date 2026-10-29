@@ -27,6 +27,7 @@ A list of awesome resources for (tech) event organisers to help grow and improve
 - [How to make your conference perfect?](https://blog.softwaremill.com/how-to-make-your-conference-perfect-a4f0e7f441c5)
 - [Ultimate Event Venue Checklist for Event Planners](https://blog.picatic.com/event-venue-checklist/) An excellent checklist for locking in the perfect venue for your conference
 - [How to have great inclusive audio at your event](https://github.com/njt/event-audio)
+- [Worksheet: Hybrid Presentation Pointing Rehearsal Record](https://light-tracer.com/wp-content/uploads/2026/10/hybrid-pointing-rehearsal-record-open-v1.pdf) - A blank two-page record for checking which slide detail remote and room viewers identify during a rehearsal (CC BY 4.0).
 
 ## Organising meetups
 - [RLadies Starter Kit](//github.com/rladies/starter-kit) A brilliant example of growing distributed groups under the same banner
